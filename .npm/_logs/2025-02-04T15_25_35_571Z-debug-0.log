@@ -19,3 +19,16 @@
 18 silly placeDep ROOT @dqbd/tiktoken@1.0.18 OK for:  want: 1.0.18
 19 silly reify moves {}
 20 silly tarball no local data for @dqbd/tiktoken@https://registry.npmjs.org/@dqbd/tiktoken/-/tiktoken-1.0.18.tgz. Extracting by manifest.
+21 http fetch GET 200 https://registry.npmjs.org/@dqbd/tiktoken/-/tiktoken-1.0.18.tgz 741ms (cache miss)
+22 silly ADD node_modules/@dqbd/tiktoken
+23 verbose cwd /home/user
+24 verbose os Linux 6.1.102
+25 verbose node v20.18.0
+26 verbose npm  v10.8.2
+27 notice
+27 notice New [31mmajor[39m version of npm available! [31m10.8.2[39m -> [34m11.1.0[39m
+27 notice Changelog: [34mhttps://github.com/npm/cli/releases/tag/v11.1.0[39m
+27 notice To update run: [4mnpm install -g npm@11.1.0[24m
+27 notice  { force: true, [Symbol(proc-log.meta)]: true }
+28 verbose exit 0
+29 info ok
