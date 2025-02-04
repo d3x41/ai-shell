@@ -13,3 +13,9 @@
 12 silly idealTree buildDeps
 13 silly fetch manifest @dqbd/tiktoken@1.0.18
 14 silly packumentCache full:https://registry.npmjs.org/@dqbd%2ftiktoken cache-miss
+15 http fetch GET 200 https://registry.npmjs.org/npm 161ms
+16 http fetch GET 200 https://registry.npmjs.org/@dqbd%2ftiktoken 279ms (cache miss)
+17 silly packumentCache full:https://registry.npmjs.org/@dqbd%2ftiktoken set size:undefined disposed:false
+18 silly placeDep ROOT @dqbd/tiktoken@1.0.18 OK for:  want: 1.0.18
+19 silly reify moves {}
+20 silly tarball no local data for @dqbd/tiktoken@https://registry.npmjs.org/@dqbd/tiktoken/-/tiktoken-1.0.18.tgz. Extracting by manifest.
